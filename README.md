@@ -20,4 +20,4 @@ Tools used:
 
 This project reinforced an important lesson for me:
  👉 Sales show momentum. Profit shows sustainability.
- Preview of Dashboard ()
+ Preview of Dashboard (https://github.com/Mujtaba-Ghufran-Siddiqui/Superstore-Sales-Performance-Dashboard-/blob/main/Snapshot%20of%20Dashboard.png)
